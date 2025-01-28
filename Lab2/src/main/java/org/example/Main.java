@@ -7,8 +7,11 @@ public class Main {
         LinkedList playlist = new LinkedList();
         Scanner scanner = new Scanner(System.in);
 
+
+
         while (true) {
-            System.out.println("Menu:");
+            System.out.println("------------------");
+            System.out.println("Playlist Menu");
             System.out.println();
             System.out.println("1. Add a Song");
             System.out.println("2. Delete a Song");
